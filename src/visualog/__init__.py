@@ -1,1 +1,1 @@
-from .audio_formatter import AudioFormatter, set_loopback_device, create_test_logger
+from .audio_formatter import AudioFormatter, create_test_logger
