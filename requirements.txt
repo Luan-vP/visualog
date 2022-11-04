@@ -3,3 +3,5 @@ pytest
 pydub
 simpleaudio
 sounddevice
+p5
+
